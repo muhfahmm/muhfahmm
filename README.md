@@ -25,7 +25,7 @@ A passionate developer based in Indonesia, specializing in building robust appli
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhfahmm&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="muhfahmm's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhfahmm&show_icons=true&theme=tokyonight" alt="muhfahmm's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhfahmm&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
 </div>
 
